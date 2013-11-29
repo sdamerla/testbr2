@@ -116,7 +116,7 @@ private static final CLogger sLogger = CLogger.getInstance(TestAppActivity.class
 // }
 // });
 //
-
+////////
 }
 
 private void addOnClickPrintButton() {
