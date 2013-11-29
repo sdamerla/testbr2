@@ -128,7 +128,8 @@ private void addOnClickPrintButton() {
                 Thread t = createThreadToLauchSDK(v);
                 t.start();
             }
-
+		/**
+		 */
             private Thread createThreadToLauchSDK(final View v) {
                 Thread t = new Thread(new Runnable() {
                     @Override
