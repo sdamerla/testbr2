@@ -157,7 +157,7 @@ private void addOnClickPrintButton() {
                                 }
                             }
                             
-                            
+                            //ADDED comment
                             print.setImages(selectedImages);
                             //set the paper type attribute for the print
                             print.setPaperFinish(PaperFinish.GLOSSY);
