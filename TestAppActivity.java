@@ -51,7 +51,10 @@ import com.snapfish.products.IPrint.PaperFinish;
 import com.snapfish.products.SnapfishProductFactory;
 import com.snapfish.products.impl.CPrint;
 import com.snapfish.util.CLogger;
-
+/**
+* This class is used to 
+*
+*/
 public class TestAppActivity extends Activity {
     private static final String ENV_LAST_TIME_EXECUTED = "ENV_LAST_TIME_EXECUTED";
 private static final CLogger sLogger = CLogger.getInstance(TestAppActivity.class.getName());
