@@ -1,0 +1,18 @@
+#Files to ignore
+#eclipse files
+.classpath
+.project
+*.class
+*~
+#android generated files
+bin/*
+gen/*
+local.properties
+tests/bin/*
+tests/gen/*
+ui-tests/bin/*
+tests/local.properties
+.settings/*
+ui-tests/bin/*
+*.orig
+
